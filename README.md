@@ -9,18 +9,7 @@ A LaTeX template of report in required format for XJTU.
   - change zju to xjtu in code.
   - add booktabs package to support tabular table.
 
-## Demo
+## Support for overleaf
 
-the pdf [demo](./demo.pdf)
+the branch is supported overleaf because use local fonts file in `fonts` fold.
 
-## Usage
-
-Simply
-
-```bash
-xelatex report.tex
-```
-
-## Mirror
-
-您也可以访问国内镜像站[gitee](https://gitee.com/chaoers/XJTU-latex-report)来下载相关资源
