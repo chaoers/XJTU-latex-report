@@ -11,5 +11,8 @@ A LaTeX template of report in required format for XJTU.
 
 ## Support for overleaf
 
-the branch is supported overleaf because use local fonts file in `fonts` fold.
+The branch is supported overleaf because use local fonts file in `fonts` fold.
 
+## Online template
+
+The template is push in [overleaf Gallery](https://www.overleaf.com/latex/templates/xjtu-latex-report/rhcsbnktcrrp), you can directly use it.
